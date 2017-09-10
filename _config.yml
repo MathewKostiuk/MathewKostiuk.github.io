@@ -1,8 +1,8 @@
 # Site settings
 title: Mathew Kostiuk
 description: 'Full Stack Web Developer'
-url: 'http://mathewkostiuk.github.io'
-baseurl: '/jekyll-uno'
+url: 'https://MathewKostiuk.github.io'
+baseurl: 'https://MathewKostiuk.github.io'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
