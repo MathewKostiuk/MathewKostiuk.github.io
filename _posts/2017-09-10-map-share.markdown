@@ -1,0 +1,9 @@
+---
+title:  "MapShare"
+date:   2017-07-28 15:04:23
+categories: [jekyll]
+---
+Group Project - SPA where users can create individual maps with custom markers
+NodeJS, Express, PostgreSQL with Knex, Bootstrap 3, Google Maps API
+
+[GitHub](https://github.com/MathewKostiuk/mapshare-lhl-midterm)
