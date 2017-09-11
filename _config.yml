@@ -1,7 +1,6 @@
 # Site settings
 title: Mathew Kostiuk
-description: 'Full Stack Web Developer
-Victoria, BC'
+description: 'Full Stack Web Developer Victoria, BC'
 url: 'https://MathewKostiuk.github.io'
 baseurl: 'https://MathewKostiuk.github.io'
 # google_analytics: 'UA-XXXXXX-X'
