@@ -8,4 +8,4 @@ Ruby on Rails, PostgreSQL, Bootstrap 4, Deployed on Heroku
 
 [GitHub](https://github.com/MathewKostiuk/final-project)
 
-[Heroku Deployment](lettuceshare.ca)
+[Heroku Deployment](http://lettuceshare.ca)
