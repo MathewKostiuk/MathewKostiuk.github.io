@@ -1,5 +1,5 @@
 ---
-title:  "LettuceShare"
+title:  "LettuceShare v1.2"
 date:   2017-10-15 15:04:23
 categories: [jekyll]
 ---
